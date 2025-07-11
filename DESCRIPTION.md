@@ -56,4 +56,4 @@ You don't need to know any programming or data science to use the app. Just sele
 - The process for choosing the best model is fully automated and based on objective performance metrics.
 
 ## Questions?
-If you have questions about how the predictions work or want to learn more about the data science behind the app, please contact the project team. 
+If you have questions about how the predictions work or want to learn more about the data science behind the app, please contact the owner of this repository.
